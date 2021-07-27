@@ -1,6 +1,9 @@
 ### Hi there 👋 , I am Ujjwal studying in IIT BHU
 
-#### aspiring software engineer
+### aspiring software engineer
+
+![](https://komarev.com/ghpvc/?username=ujjwal77&color=green)
+
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwal77&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
